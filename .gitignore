@@ -56,7 +56,6 @@ val2017.zip
 *.weights
 *.pt
 *.pb
-*.onnx
 *.engine
 *.mlmodel
 *.torchscript
